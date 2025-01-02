@@ -1,0 +1,2 @@
+# Vehicle-number-plate-prediction
+VEHICLE NUMBER PLATE DETECTION USING YOLO V8 ALGORITHM
